@@ -6,7 +6,7 @@ This project explores how the rise of electric vehicles (EVs) in California rela
 
 [https://www.youtube.com/watch?v=WyB6L6t94-c](https://www.youtube.com/watch?v=WyB6L6t94-c)
 
-## My Contributions (Abel Gonzalez-Hernandez)
+## My Contributions
 
 * Led data cleaning and preprocessing, including formatting and merging datasets across counties and CBSA regions.
 * Conducted exploratory data analysis (EDA) to examine relationships between EV adoption, PM2.5 air quality levels, and electricity consumption.
